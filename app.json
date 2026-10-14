@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "SplitBill",
+    "slug": "splitbill",
+    "version": "0.1.0",
+    "scheme": "splitbill",
+    "userInterfaceStyle": "automatic",
+    "platforms": ["ios"],
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.splitbill.app"
+    },
+    "plugins": ["expo-router", "expo-dev-client", "expo-status-bar"]
+  }
+}

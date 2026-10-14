@@ -1,0 +1,10 @@
+.atl/
+.agents/
+skills-lock.json
+node_modules/
+.expo/
+dist/
+coverage/
+package-lock.json
+ios/
+android/
